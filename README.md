@@ -5,6 +5,8 @@
 
 ---
 
+	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+
 ## 🛠️ Tecnologias & Linguagens
 
 ### Linguagens
@@ -44,11 +46,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/>
 </p>
 
+### Tecnologias
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
+</p>
+
 ---
 
 ## 📫 Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbelinski)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielbelinskisalomao@gmail.com)
+
 
 ---
 
