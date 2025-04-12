@@ -1,11 +1,11 @@
 # Gabriel Belinski 👨‍💻
 
 🎓 Estudante de Ciência da Computação <br>
-⚙️ Apaixonado por Engenharia de Software e Desenvolvimento Back-end
+⚙️ Interessado em Engenharia de Software e Desenvolvimento Back-end
 
 ---
 
-	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+	
 
 ## 🛠️ Tecnologias & Linguagens
 
