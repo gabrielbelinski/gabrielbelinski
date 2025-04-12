@@ -1,16 +1,57 @@
-## Hi there 👋
+# Gabriel Belinski 👨‍💻
 
-<!--
-**gabrielbelinski/gabrielbelinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação <br>
+⚙️ Apaixonado por Engenharia de Software e Desenvolvimento Back-end
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Linguagens
+
+### Linguagens
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="40"/>
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40"/>
+</p>
+
+### Banco de Dados
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+</p>
+
+### Mobile
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📫 Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbelinski)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielbelinski&show_icons=true&theme=tokyonight" alt="Gabriel's GitHub Stats"/>
+</p>
